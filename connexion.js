@@ -8,3 +8,4 @@ if (name==="Tomas"){
       alert('Tu es président')
 }
 }
+}
