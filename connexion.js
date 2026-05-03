@@ -1,3 +1,4 @@
+function connexion(){
 let name=prompt("Quel est votre nom?")
 let password=prompt("Quel est votre mot de passe?")
  
