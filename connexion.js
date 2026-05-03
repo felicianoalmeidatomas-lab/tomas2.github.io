@@ -4,7 +4,7 @@ let password=prompt("Quel est votre mot de passe?")
  
 //Tomas
 if (name==="Tomas"){
-  if (password==="Tomas12@{
+  if (password==="Tomas12@"){
       alert('Tu es président')
 }
 }
