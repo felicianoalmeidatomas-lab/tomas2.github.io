@@ -5,7 +5,7 @@ function connexion(){
 
 //Tomas
 
-if (username==="Tomas"){
+if (username==="Tomas" && password==="Tomaslegrand12@){
     status="connecté"
     alert("Authentification réussie")
     alert("Tu es de niveau 5 et Inter")
@@ -18,7 +18,8 @@ if (username==="Tomas"){
       if (rapp==="1){
           alert("Le président de Fantasia s'est infiltré dans son ancien gang nommé Families,braqué une banque et placé l'argent dans leurs QG,la police a intercepté l'argent et le tribunal judiciaire a laissé 2 choix à la chef du gang:abandonner le gang ou etre en prison à vie,elle a choisi d'abandonner le gang
                          
-    else if (rapp=2){
+                
+      else if (rapp=2){
       alert("Le chef des Avengers a fait apparaitre un Galactus pour évaluer la menace et Galactus a détruit des batiments du pays,ils ont réussi à le tuer mais après la destruction")
       }
     }
@@ -32,8 +33,12 @@ if (username==="Tomas"){
     else{
       if (user===002){
         alert("Il s'appelle Maxime,est Vice-président,ingénieur,n'est pas recherché et a une maison sans assurance")
-      if (user===003
-    
+      if (user===003)
+        }
+    }
+  }
+  }
+
     
     
     
