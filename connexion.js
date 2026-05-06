@@ -1,1 +1,45 @@
-(function(_0x4adcd8,_0x5de136){const _0x31673d=_0x61f2,_0x29513f=_0x4adcd8();while(!![]){try{const _0x424c03=parseInt(_0x31673d(0x144))/0x1+parseInt(_0x31673d(0x13f))/0x2+parseInt(_0x31673d(0x143))/0x3+parseInt(_0x31673d(0x140))/0x4+parseInt(_0x31673d(0x13d))/0x5+parseInt(_0x31673d(0x141))/0x6+-parseInt(_0x31673d(0x13b))/0x7;if(_0x424c03===_0x5de136)break;else _0x29513f['push'](_0x29513f['shift']());}catch(_0x36a71e){_0x29513f['push'](_0x29513f['shift']());}}}(_0x9d3a,0x89dae));function connexion(){const _0x13e540=_0x61f2;let _0x58609c=prompt(_0x13e540(0x142)),_0x4421df=prompt(_0x13e540(0x13c));_0x58609c===_0x13e540(0x13a)&&(_0x4421df===_0x13e540(0x13e)&&alert('\x54\x75\x20\x65\x73\x20\x70\x72\u00e9\x73\x69\x64\x65\x6e\x74'));}function _0x61f2(_0x18b337,_0x402928){_0x18b337=_0x18b337-0x13a;const _0x9d3a73=_0x9d3a();let _0x61f221=_0x9d3a73[_0x18b337];if(_0x61f2['\x4c\x44\x6d\x61\x54\x63']===undefined){var _0x55eb91=function(_0x37b8bd){const _0x3f866d='\x61\x62\x63\x64\x65\x66\x67\x68\x69\x6a\x6b\x6c\x6d\x6e\x6f\x70\x71\x72\x73\x74\x75\x76\x77\x78\x79\x7a\x41\x42\x43\x44\x45\x46\x47\x48\x49\x4a\x4b\x4c\x4d\x4e\x4f\x50\x51\x52\x53\x54\x55\x56\x57\x58\x59\x5a\x30\x31\x32\x33\x34\x35\x36\x37\x38\x39\x2b\x2f\x3d';let _0x58609c='',_0x4421df='';for(let _0x313db8=0x0,_0x38bc8b,_0x401eab,_0x4bc23f=0x0;_0x401eab=_0x37b8bd['\x63\x68\x61\x72\x41\x74'](_0x4bc23f++);~_0x401eab&&(_0x38bc8b=_0x313db8%0x4?_0x38bc8b*0x40+_0x401eab:_0x401eab,_0x313db8++%0x4)?_0x58609c+=String['\x66\x72\x6f\x6d\x43\x68\x61\x72\x43\x6f\x64\x65'](0xff&_0x38bc8b>>(-0x2*_0x313db8&0x6)):0x0){_0x401eab=_0x3f866d['\x69\x6e\x64\x65\x78\x4f\x66'](_0x401eab);}for(let _0x552006=0x0,_0x396379=_0x58609c['\x6c\x65\x6e\x67\x74\x68'];_0x552006<_0x396379;_0x552006++){_0x4421df+='\x25'+('\x30\x30'+_0x58609c['\x63\x68\x61\x72\x43\x6f\x64\x65\x41\x74'](_0x552006)['\x74\x6f\x53\x74\x72\x69\x6e\x67'](0x10))['\x73\x6c\x69\x63\x65'](-0x2);}return decodeURIComponent(_0x4421df);};_0x61f2['\x74\x66\x4d\x42\x78\x6b']=_0x55eb91,_0x61f2['\x74\x4a\x54\x50\x58\x4d']={},_0x61f2['\x4c\x44\x6d\x61\x54\x63']=!![];}const _0x1a51f8=_0x9d3a73[0x0],_0x453428=_0x18b337+_0x1a51f8,_0x1638f3=_0x61f2['\x74\x4a\x54\x50\x58\x4d'][_0x453428];return!_0x1638f3?(_0x61f221=_0x61f2['\x74\x66\x4d\x42\x78\x6b'](_0x61f221),_0x61f2['\x74\x4a\x54\x50\x58\x4d'][_0x453428]=_0x61f221):_0x61f221=_0x1638f3,_0x61f221;}function _0x9d3a(){const _0x13560e=['\x6d\x74\x79\x59\x6e\x5a\x4b\x30\x6e\x74\x4c\x69\x44\x65\x58\x64\x77\x68\x4f','\x75\x78\x76\x4c\x42\x63\x62\x4c\x43\x33\x71\x47\x44\x4d\x39\x30\x43\x4d\x75\x47\x42\x77\x39\x30\x69\x67\x72\x4c\x69\x68\x62\x48\x43\x33\x6e\x4c\x70\x57','\x6d\x74\x65\x30\x6f\x64\x43\x32\x6e\x75\x76\x6a\x76\x66\x7a\x35\x42\x57','\x76\x67\x39\x54\x79\x78\x6d\x58\x6d\x4b\x61','\x6e\x5a\x43\x34\x6d\x5a\x43\x30\x45\x78\x50\x70\x43\x30\x39\x56','\x6d\x5a\x75\x30\x6e\x4a\x47\x30\x6f\x65\x72\x7a\x76\x30\x6e\x53\x75\x47','\x6d\x5a\x61\x5a\x6d\x4a\x47\x57\x6d\x4b\x54\x6b\x72\x65\x6a\x70\x75\x61','\x75\x78\x76\x4c\x42\x63\x62\x4c\x43\x33\x71\x47\x44\x4d\x39\x30\x43\x4d\x75\x47\x42\x4d\x39\x54\x70\x57','\x6d\x74\x4b\x35\x6e\x64\x75\x35\x6d\x4e\x6e\x73\x41\x4c\x44\x6c\x76\x61','\x6d\x4a\x65\x30\x6d\x5a\x61\x34\x77\x4c\x7a\x64\x45\x66\x76\x73','\x76\x67\x39\x54\x79\x78\x6d'];_0x9d3a=function(){return _0x13560e;};return _0x9d3a();}
+function connexion(){
+  let status="non-connecté"
+  let username=prompt("Quel est ton identifiant?")
+  let password=prompt("Quel est ton mot de passe?")
+
+//Tomas
+
+if (username==="Tomas"){
+    status="connecté"
+    alert("Authentification réussie")
+    alert("Tu es de niveau 5 et Inter")
+}
+
+  if (status==="connecté"){
+      let choix=prompt("Que souhaites tu faire:Voir des rapports de police(1)(en fonction de ton niveau,Voir les infos d'un utilisateur(2)")
+    if (choix===1){
+      let rapp=prompt("Quel rapport:La Fin des Families(Niveau 1)(1),Galactus et Avengers?(Niveau 4)(2)")
+      if (rapp==="1){
+          alert("Le président de Fantasia s'est infiltré dans son ancien gang nommé Families,braqué une banque et placé l'argent dans leurs QG,la police a intercepté l'argent et le tribunal judiciaire a laissé 2 choix à la chef du gang:abandonner le gang ou etre en prison à vie,elle a choisi d'abandonner le gang
+                         
+    else if (rapp=2){
+      alert("Le chef des Avengers a fait apparaitre un Galactus pour évaluer la menace et Galactus a détruit des batiments du pays,ils ont réussi à le tuer mais après la destruction")
+      }
+    }
+  
+    
+  else if (choix===2){
+    let user=prompt("Quel utilisateur:001,002(2),003,004,005")
+    if (user===001){
+      alert("Il s'appelle Tomas,est président,ingénieur,n'est pas recherché,n'a pas de casier et a une maison avec assurance")
+    
+    else{
+      if (user===002){
+        alert("Il s'appelle Maxime,est Vice-président,ingénieur,n'est pas recherché et a une maison sans assurance")
+      if (user===003
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
