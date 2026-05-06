@@ -9,7 +9,7 @@ if (username==="Tomas" && password==="Tomaslegrand12@){
     status="connecté"
     alert("Authentification réussie")
     alert("Tu es de niveau 5 et Inter")
-}
+
 
   if (status==="connecté"){
       let choix=prompt("Que souhaites tu faire:Voir des rapports de police(1)(en fonction de ton niveau,Voir les infos d'un utilisateur(2)")
@@ -38,6 +38,7 @@ if (username==="Tomas" && password==="Tomaslegrand12@){
     }
   }
   }
+}
 
     
     
