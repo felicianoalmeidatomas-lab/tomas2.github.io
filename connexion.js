@@ -31,7 +31,9 @@ function connexion() {
     alert("Authentification réussie");
     alert("Tu es de niveau 5");
 
-    if (status === "connecté") {
+  
+        }
+ if (status === "connecté") {
 
       let choix = prompt(
         "Que souhaites-tu faire ?\n1: Voir des rapports de police\n2: Voir les infos d'un utilisateur"
@@ -75,11 +77,14 @@ function connexion() {
         else if (user === "005") {
           alert("Utilisateur 005 : données non disponibles.");
         }
-      }
-    }
-  }
 
-  else {
-    alert("Identifiant ou mot de passe incorrect");
-  }
+
+
+
+
 }
+ }
+    
+  
+
+  
