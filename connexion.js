@@ -5,7 +5,7 @@ function connexion() {
   let password = prompt("Quel est ton mot de passe ?");
 
   // Tomas
-  if (username === "Tomas" && password === "Tomaslegrand12@") {
+  if (username === "Tomas" && password === "Sever") {
     status = "connecté";
     alert("Authentification réussie");
     alert("Tu es de niveau 5 et Inter");
@@ -18,7 +18,19 @@ function connexion() {
     alert("Tu es de niveau 3");
   }
 
-  if (status === "connecté") {
+ //Raphael
+ if (username=="Raphael" && password==="Raphael1234"){
+    status="connecté";
+   alert("Authentification réussie");
+   alert("Tu es de niveau 4");
+ }
+
+else if (username==="Maxime" && password==="Pixel2019@"){
+  status="connecté";
+  alert("Authentification réussie");
+  alert("Tu es de niveau 5");
+
+    if (status === "connecté") {
     let choix = prompt("Que souhaites-tu faire ?\n1: Voir des rapports de police\n2: Voir les infos d'un utilisateur");
 
     if (choix === "1") {
