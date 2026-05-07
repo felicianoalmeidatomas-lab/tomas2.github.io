@@ -10,7 +10,9 @@ if (username==="Tomas" && password==="Tomaslegrand12@"){
     alert("Authentification réussie")
     alert("Tu es de niveau 5 et Inter")
 
-if (username==="Nathan" && password==="Nathan2011"){
+
+//Nathan
+else if (username==="Nathan" && password==="Nathan2011"){
 status="connecté"
 alert("Authentification réussie")
 alert("Tu es de niveau 3")  
@@ -57,9 +59,7 @@ alert("Tu es de niveau 3")
       
       }
       
-      if (user==="003"){
-      
-      }
+     
     }
   }
   }
