@@ -15,7 +15,7 @@ if (username==="Nathan" && password==="Nathan2011"){
   status="connecté"
   alert("Authentification réussie")
   alert("Tu es de niveau 4")
-
+}
   
   
   
