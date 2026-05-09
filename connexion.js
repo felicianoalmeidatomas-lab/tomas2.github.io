@@ -75,7 +75,7 @@ function connexion() {
       }
 
       else if (user === "005") {
-        alert("Il s'appelle Martin,n'a pas de métier,n'est pas recherché et n'a pas de métier");
+        alert("Il s'appelle Martin,n'a pas de métier,n'est pas recherché et a une maison sans assurance");
       }
     }
   }
