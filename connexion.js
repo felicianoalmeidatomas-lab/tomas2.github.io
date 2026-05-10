@@ -19,7 +19,7 @@ function connexion() {
   }
 
   // Raphael
-  else if (username == "Raphael" && password === "Raphael1234") {
+  else if (username === "Raphael" && password === "Raphael1234") {
     status = "connecté";
     alert("Authentification réussie");
     alert("Tu es de niveau 4");
@@ -35,10 +35,10 @@ function connexion() {
   if (status === "connecté") {
 
     let choix = prompt(
-      "Que souhaites-tu faire ? 1: Voir des rapports de police 2: Voir les infos d'un utilisateur 3:Fermer le portail"
+      "Que souhaites-tu faire ? 1: Voir des rapports de police 2: Voir les infos d'un utilisateur 3: Fermer le portail"
     );
 
-   
+    // RAPPORTS
     if (choix === "1") {
 
       let rapp = prompt(
@@ -54,6 +54,7 @@ function connexion() {
       }
     }
 
+    // UTILISATEURS
     else if (choix === "2") {
 
       let user = prompt("Quel utilisateur ? 001 002 003 004 005");
@@ -67,20 +68,25 @@ function connexion() {
       }
 
       else if (user === "003") {
-        alert("Il s'appelle Raphael,est Policier n'est pas recherché et a une maison sans assurance");
+        alert("Il s'appelle Raphael, est policier, n'est pas recherché et a une maison sans assurance.");
       }
 
       else if (user === "004") {
-        alert("Il s'appelle Nathan,est Maire n'est pas recherché et a une maison sans assurance");
+        alert("Il s'appelle Nathan, est maire, n'est pas recherché et a une maison sans assurance.");
       }
 
       else if (user === "005") {
-        alert("Il s'appelle Martin,n'a pas de métier,n'est pas recherché et a une maison sans assurance");
+        alert("Il s'appelle Martin, n'a pas de métier, n'est pas recherché et a une maison sans assurance.");
       }
     }
-  }
 
+    // FERMER
+    else if (choix === "3") {
+      alert("Portail fermé");
+    }
+  }
 
   else {
     alert("Identifiant ou mot de passe incorrect");
   }
+}
